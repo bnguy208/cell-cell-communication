@@ -1,1 +1,1 @@
-# cell-cell-communication
+# CellChat
